@@ -1,6 +1,7 @@
 .display{
+    
     grid-column: span 4;
-    background-color: #0004;
+    background-color: rgba(0, 0, 0, 0.267);
 
     display: flex;
     justify-content: flex-end;
